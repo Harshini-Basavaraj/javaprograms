@@ -7,5 +7,6 @@
             System.out.println("Emp is present");
          else
      	    System.out.println("Emp is absent");
+	    System.out.println("Hi emp");
 	}
 }
